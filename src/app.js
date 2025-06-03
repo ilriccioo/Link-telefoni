@@ -4,3 +4,4 @@ export default function App() {
       Quiz Smartphone pronto a partire!
     </div>
   );
+}
